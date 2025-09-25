@@ -3,3 +3,10 @@ Shivakarthikeyan Ki Shandar Entry Scene | Not Out Movie Best Scene
 Movie : Not Out
 
 This can be useful when you want to make changes to a project without affecting the main branch or when you want to work on a new feature or bug fix.
+
+
+Dark mode usually means switching your screen or app theme to a darker color palette (dark background + light text).
+Can you clarify what you mean by “dark mode” here? Do you want:
+📱 How to turn on dark mode in Windows/Android/iPhone/Browser?
+💻 Code example for implementing dark mode in a website/app (CSS/React/etc.)?
+🎨 A dark theme design suggestion for your project?
