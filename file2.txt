@@ -1,2 +1,5 @@
 this is second file.
 adding new features
+
+remote controll bomb
+like chocolate bomb
