@@ -1,2 +1,6 @@
 this first file
 basic features
+
+intermediate features
+
+advanced features
